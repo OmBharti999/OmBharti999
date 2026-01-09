@@ -64,7 +64,7 @@ I am a Software Engineer currently working at **[DataVinci](https://www.datavinc
 </p>
 
 ---
-
+<!--
 ### 📊 GitHub Analytics
 
 <p align="center">
@@ -78,6 +78,20 @@ I am a Software Engineer currently working at **[DataVinci](https://www.datavinc
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmBharti999&theme=tokyonight&hide_border=true&v=2" alt="Om's Streak" />
 </p>
+-->
+
+### 📊 GitHub Analytics
+
+<div align="center">
+
+[![Om's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=OmBharti999&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/OmBharti999)
+
+[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=OmBharti999&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/OmBharti999)
+
+[![Om's Streak](https://github-readme-streak-stats.herokuapp.com/?user=OmBharti999&theme=tokyonight&hide_border=true)](https://github.com/OmBharti999)
+
+</div>
+
 
 ---
 
