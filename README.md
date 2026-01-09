@@ -16,6 +16,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
+
+
+
+
+
+
+
+
 # Hi there, I'm Om Bharti! 👋
 
 ### 🚀 Full Stack Engineer | System Design & AI-Native Dev
@@ -25,7 +35,7 @@ I am a Software Engineer currently working at **[DataVinci](https://www.datavinc
 - 🏗️ **System Design:** I architect scalable database schemas and API infrastructures for SaaS products.
 - 👨‍💻 **Leadership:** I handle technical interviews for interns and mentor junior developers.
 - 🔭 **Current Work:** Building features for **Grippi** and handling database migrations.
-- 🛠️ **Stack:** Deeply experienced in **Next.js, TypeScript, C#, and Python**.
+- 🛠️ **Stack:** Deeply experienced in **Next.js & TypeScript**. Currently expanding my backend skills in **Python** and exploring **C#/.NET**.
 - 🌐 **Portfolio:** View my work at **[om-portfolio-2.netlify.app](https://om-portfolio-2.netlify.app/)**.
 
 ---
@@ -36,32 +46,38 @@ I am a Software Engineer currently working at **[DataVinci](https://www.datavinc
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </p>
 
 ---
 
 ### 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OmBharti999&show_icons=true&theme=tokyonight&hide_border=true&v=2" alt="Om's GitHub Stats" />
+</p>
 
-[![Om's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmBharti999&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/OmBharti999)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmBharti999&layout=compact&theme=tokyonight&hide_border=true&v=2" alt="Top Languages" />
+</p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmBharti999&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/OmBharti999)
-
-[![Om's Streak](https://github-readme-streak-stats.herokuapp.com/?user=OmBharti999&theme=tokyonight&hide_border=true)](https://github.com/OmBharti999)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmBharti999&theme=tokyonight&hide_border=true&v=2" alt="Om's Streak" />
+</p>
 
 ---
 
