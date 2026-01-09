@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Om Bharti! 👋
 
-### 🚀 Full Stack Software Engineer | Next.js & TypeScript Specialist
+### 🚀 Full Stack Engineer | System Design & AI-Native Dev
 
-I am a Software Engineer currently working at **[DataVinci](https://www.datavinci.in/)**, where I am a core developer for **Grippi**, a SaaS analytics platform. I specialize in building scalable web applications, handling complex database migrations, and integrating third-party APIs (Google Ads, GA4, Shopify).
+I am a Software Engineer currently working at **[DataVinci](https://www.datavinci.in/)**, where I serve as a core developer for **Grippi**, a SaaS analytics platform. I leverage **AI-native workflows (Cursor, Windsurf)** to build and ship scalable production features at high velocity.
 
-- 🔭 I’m currently building features for **Grippi** (DataVinci's SaaS product).
-- 💼 successfully completed a contract as an Associate Software Engineer at **WithJoy.AI**.
-- 🛠️ Deeply experienced in **Next.js, React, TypeScript, and Supabase**.
-- 🌐 View my portfolio at **[om-portfolio-2.netlify.app](https://om-portfolio-2.netlify.app/)**.
-- 💬 Ask me about **SaaS Architecture, API Integrations, and React Performance**.
+- 🏗️ **System Design:** I architect scalable database schemas and API infrastructures for SaaS products.
+- 👨‍💻 **Leadership:** I handle technical interviews for interns and mentor junior developers.
+- 🔭 **Current Work:** Building features for **Grippi** and handling database migrations.
+- 🛠️ **Stack:** Deeply experienced in **Next.js, TypeScript, C#, and Python**.
+- 🌐 **Portfolio:** View my work at **[om-portfolio-2.netlify.app](https://om-portfolio-2.netlify.app/)**.
 
 ---
 
@@ -38,30 +38,30 @@ I am a Software Engineer currently working at **[DataVinci](https://www.datavinc
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
   
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmBharti999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Om's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmBharti999&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/OmBharti999">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmBharti999&theme=tokyonight&hide_border=true" alt="Om's Streak" />
-  </a>
-</p>
+[![Om's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmBharti999&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/OmBharti999)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmBharti999&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/OmBharti999)
+
+[![Om's Streak](https://github-readme-streak-stats.herokuapp.com/?user=OmBharti999&theme=tokyonight&hide_border=true)](https://github.com/OmBharti999)
+
+</div>
 
 ---
 
