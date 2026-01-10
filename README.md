@@ -51,12 +51,14 @@ const om_bharti = {
 ```
 
 </td>
-<td width="45%" valign="top">
-
-<div align="center">
-    <img src="https://github.com/OmBharti999/OmBharti999/raw/main/Screenshot%202026-01-11%20011039.png" width="100%" alt="Om Bharti Details" />
-</div>
-
+<td width="45%" valign="middle" align="center">
+  <img 
+    src="https://github.com/OmBharti999/OmBharti999/raw/main/Screenshot%202026-01-11%20011039.png" 
+    height="350" 
+    alt="Om Bharti" 
+    style="display: block; margin: 0 auto;"
+  />
+  
 </td>
 </tr>
 </table>
