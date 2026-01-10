@@ -67,6 +67,13 @@ const om_bharti = {
 ## 🛠️ Tech Stack & Tools
 
 ### 🚀 Advanced (Daily Drivers)
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,prisma,git&theme=dark" />
+  </a>
+</p>
+
 **Languages**
 <br>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -78,18 +85,22 @@ const om_bharti = {
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
-**Databases & ORM**
+**Databases & Workflow**
 <br>
 <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
-
-**Tools & Workflow**
-<br>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logo=openai&logoColor=white" />
 
 ---
 
 ### 🛠️ Intermediate (Solid Experience)
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,postgres,nodejs,express,fastapi,jest,supabase,mongodb,mysql&theme=dark" />
+  </a>
+</p>
+
 **Languages**
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -112,12 +123,16 @@ const om_bharti = {
 ---
 
 ### 🌱 Familiar & Exploring
-**Languages**
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,remix&theme=dark" />
+  </a>
+</p>
+
+**Languages & Frameworks**
 <br>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-
-**Frameworks**
-<br>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white" />
 
@@ -125,7 +140,6 @@ const om_bharti = {
 <br>
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 <img src="https://img.shields.io/badge/Windsurf-1E1E1E?style=for-the-badge&logo=codeium&logoColor=white" />
-
 ---
 
 ## 📊 GitHub Analytics
