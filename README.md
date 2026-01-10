@@ -64,10 +64,14 @@ const om_bharti = {
 
 ---
 
+<--
+
 ## 🛠️ Tech Stack & Tools
 
+>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=80&text=Tech%20Stack%20%26%20Tools&fontSize=35&fontAlignY=50" alt="Tech Stack Header" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=80&text=Tech%20Stack%20and%20Tools&fontSize=35&animation=twinkling" alt="Tech Stack Header" />
 </div>
 
 ### 🚀 Advanced (Daily Drivers)
