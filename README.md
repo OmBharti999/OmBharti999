@@ -180,5 +180,7 @@ const om_bharti = {
 </p>
 
 ```
-
+<p align="center">
+  <i>🧮 "Don't fear facing failure in the first attempt, because even the successful Math starts with 'Zero' only." - Dr. A.P.J. Abdul Kalam</i>
+</p>
 ```
