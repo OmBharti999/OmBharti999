@@ -29,15 +29,15 @@
 <tr>
 <td width="55%" valign="top">
 
+  
 <!-- 
-HEADER HERE
+=======================================
 ## 🎯 About Me
-
+=========================================
 -->
 
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=80&text=About%20Me&fontSize=35&animation=twinkling" alt="About Me Header" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00C9FF,100:92FE9D&height=80&text=About%20Me&fontSize=35&animation=twinkling" alt="About Me Header" />
 </div>
 
 ```typescript
@@ -50,8 +50,8 @@ const om_bharti = {
   funFact: "I ship features faster with Cursor & Windsurf! ⚡",
   portfolio: "[https://om-portfolio-2.netlify.app](https://om-portfolio-2.netlify.app)",
 };
-```
 
+```
 
 </td>
 <td width="45%" valign="top">
@@ -63,13 +63,13 @@ const om_bharti = {
 </table>
 
 <!-- 
-
+=======================================
 ## 🌟 What I'm Up To
-
+=========================================
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=80&text=What%20I'm%20Up%20To&fontSize=35&animation=twinkling" alt="What I'm Up To Header" />
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dsoft%26color%3D0:00C9FF,100:92FE9D%26height%3D80%26text%3DWhat%2520I%27m%2520Up%2520To%26fontSize%3D35%26animation%3Dtwinkling" alt="What I'm Up To Header" />
 </div>
 
 * 🔭 **Currently Working On:** Core Developer for **Grippi**, handling database migrations and building analytics features.
@@ -82,36 +82,48 @@ const om_bharti = {
 ---
 
 <!-- 
-
+=======================================
 ## 🛠️ Tech Stack & Tools
-
+=========================================
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=80&text=Tech%20Stack%20and%20Tools&fontSize=35&animation=twinkling" alt="Tech Stack Header" />
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dsoft%26color%3D0:00C9FF,100:92FE9D%26height%3D80%26text%3DTech%2520Stack%2520and%2520Tools%26fontSize%3D35%26animation%3Dtwinkling" alt="Tech Stack Header" />
 </div>
 
 ### 🚀 Advanced (Daily Drivers)
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,prisma,git&theme=dark" />
-  </a>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,prisma,git&theme=dark" />
+</a>
 </p>
 
 **Languages**
-<br>
+
+
+
+
+
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 **Frameworks & Libraries**
-<br>
+
+
+
+
+
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
 **Databases & Workflow**
-<br>
+
+
+
+
+
 <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logo=openai&logoColor=white" />
@@ -121,26 +133,38 @@ const om_bharti = {
 ### 🛠️ Intermediate (Solid Experience)
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,postgres,nodejs,express,fastapi,jest,supabase,mongodb,mysql&theme=dark" />
-  </a>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=python,java,postgres,nodejs,express,fastapi,jest,supabase,mongodb,mysql&theme=dark" />
+</a>
 </p>
 
 **Languages**
-<br>
+
+
+
+
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 **Frameworks & Libraries**
-<br>
+
+
+
+
+
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 
 **Databases**
-<br>
+
+
+
+
+
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/PlanetScale-000000?style=for-the-badge&logo=planetscale&logoColor=white" />
@@ -150,32 +174,41 @@ const om_bharti = {
 ### 🌱 Familiar & Exploring
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,remix&theme=dark" />
-  </a>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=cs,dotnet,azure,remix&theme=dark" />
+</a>
 </p>
 
 **Languages & Frameworks**
-<br>
+
+
+
+
+
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white" />
 
 **Cloud & Tools**
-<br>
+
+
+
+
+
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 <img src="https://img.shields.io/badge/Windsurf-1E1E1E?style=for-the-badge&logo=codeium&logoColor=white" />
+
 ---
 
 
-<!--
-
+<!-- 
+=======================================
 ## 📊 GitHub Analytics
-
+=========================================
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=80&text=GitHub%20Analytics&fontSize=35&animation=twinkling" alt="GitHub Analytics Header" />
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dsoft%26color%3D0:00C9FF,100:92FE9D%26height%3D80%26text%3DGitHub%2520Analytics%26fontSize%3D35%26animation%3Dtwinkling" alt="GitHub Analytics Header" />
 </div>
 
 <div align="center">
@@ -190,15 +223,14 @@ const om_bharti = {
 
 ---
 
-<!--
-
+<!-- 
+=======================================
 ## 🤝 Connect With Me
-
+=========================================
 -->
 
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=80&text=Connect%20With%20Me&fontSize=35&animation=twinkling" alt="Connect With Me Header" />
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dsoft%26color%3D0:00C9FF,100:92FE9D%26height%3D80%26text%3DConnect%2520With%2520Me%26fontSize%3D35%26animation%3Dtwinkling" alt="Connect With Me Header" />
 </div>
 
 <p align="center">
@@ -216,12 +248,12 @@ const om_bharti = {
 </a>
 </p>
 
----
-
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+<i>🧮 "Don't fear facing failure in the first attempt, because even the successful Math starts with 'Zero' only." - Dr. A.P.J. Abdul Kalam</i>
 </p>
 
 <p align="center">
-  <i>🧮 "Don't fear facing failure in the first attempt, because even the successful Math starts with 'Zero' only." - Dr. A.P.J. Abdul Kalam</i>
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0:00C9FF,100:92FE9D%26height%3D100%26section%3Dfooter" alt="Footer" />
 </p>
+
+```
