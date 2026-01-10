@@ -29,7 +29,16 @@
 <tr>
 <td width="55%" valign="top">
 
+<!-- 
+HEADER HERE
 ## 🎯 About Me
+
+-->
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=80&text=About%20Me&fontSize=35&animation=twinkling" alt="About Me Header" />
+</div>
 
 ```typescript
 const om_bharti = {
@@ -53,7 +62,15 @@ const om_bharti = {
 </tr>
 </table>
 
+<!-- 
+
 ## 🌟 What I'm Up To
+
+-->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=80&text=What%20I'm%20Up%20To&fontSize=35&animation=twinkling" alt="What I'm Up To Header" />
+</div>
 
 * 🔭 **Currently Working On:** Core Developer for **Grippi**, handling database migrations and building analytics features.
 * 🌱 **Currently Learning:** Expanding backend proficiency in **Python** and diving into **C# / .NET**.
@@ -150,7 +167,16 @@ const om_bharti = {
 <img src="https://img.shields.io/badge/Windsurf-1E1E1E?style=for-the-badge&logo=codeium&logoColor=white" />
 ---
 
+
+<!--
+
 ## 📊 GitHub Analytics
+
+-->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=80&text=GitHub%20Analytics&fontSize=35&animation=twinkling" alt="GitHub Analytics Header" />
+</div>
 
 <div align="center">
 
@@ -164,7 +190,16 @@ const om_bharti = {
 
 ---
 
+<!--
+
 ## 🤝 Connect With Me
+
+-->
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=80&text=Connect%20With%20Me&fontSize=35&animation=twinkling" alt="Connect With Me Header" />
+</div>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/om-bhartiofficial">
