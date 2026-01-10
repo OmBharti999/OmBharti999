@@ -226,3 +226,5 @@ const om_bharti = {
 <p align="center">
   <i>🧮 "Don't fear facing failure in the first attempt, because even the successful Math starts with 'Zero' only." - Dr. A.P.J. Abdul Kalam</i>
 </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalsharma3012&" alt="kunalsharma3012" /></p>
