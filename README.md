@@ -179,8 +179,6 @@ const om_bharti = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
 </p>
 
-```
 <p align="center">
   <i>🧮 "Don't fear facing failure in the first attempt, because even the successful Math starts with 'Zero' only." - Dr. A.P.J. Abdul Kalam</i>
 </p>
-```
