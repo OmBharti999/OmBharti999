@@ -28,19 +28,34 @@
 <table>
 <tr>
 <td width="55%" valign="top">
-<!-- HEADER ABOUT ME -->
+<!-- 
+  ===================
+  HEADER ABOUT ME
+  ===================
+-->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=80&text=About%20Me&fontSize=35&animation=twinkling" alt="About Me Header" />
 </div>
 
-<div align="center">
-    <img src="https://github.com/OmBharti999/OmBharti999/raw/main/Screenshot%202026-01-11%20011039.png" width="100%" alt="Om Bharti Details" />
-</div>
+
+```typescript
+const om_bharti = {
+  currentRole: "Software Engineer @ DataVinci",
+  building: "Grippi (SaaS Analytics Platform)",
+  expertise: ["System Design", "AI-Native Dev", "Scalability"],
+  stack: ["Next.js", "TypeScript", "Python", "Supabase"],
+  leadership: "Intern Mentorship & Tech Hiring",
+  funFact: "I ship features faster with Cursor & Windsurf! ⚡",
+  portfolio: "[https://om-portfolio-2.netlify.app](https://om-portfolio-2.netlify.app)",
+};
+```
 
 </td>
 <td width="45%" valign="top">
 
-<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="100%" alt="coding">
+<div align="center">
+    <img src="https://github.com/OmBharti999/OmBharti999/raw/main/Screenshot%202026-01-11%20011039.png" width="100%" alt="Om Bharti Details" />
+</div>
 
 </td>
 </tr>
