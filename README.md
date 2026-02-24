@@ -79,6 +79,7 @@ const om_bharti = {
 * 🏗️ **System Design:** Architecting scalable schemas and API infrastructures for SaaS.
 * 💬 **Ask Me About:** Next.js, TypeScript, Database Design, and Interview Prep.
 * 📫 **Reach Me:** [LinkedIn](https://www.linkedin.com/in/om-bhartiofficial)
+* 🐙 **Other GitHub Account:** Active contributions and professional work at [@omAtDV](https://github.com/omAtDV)
 
 ---
 
